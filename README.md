@@ -154,7 +154,11 @@ Execute the program
 
 
 # OUPUT
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-16%2019-11-41.png
+
+
+
+![Screenshot (58)](https://user-images.githubusercontent.com/119478475/214572433-c4af0b04-9893-4f73-a6c9-cdf7373ccbb2.png)
+
 
 
 
